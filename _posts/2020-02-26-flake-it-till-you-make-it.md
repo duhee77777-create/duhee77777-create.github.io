@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hello
+title: hello!
 subtitle: hello python
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
